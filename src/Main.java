@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         // Задача 1
 
         int[] weight = new int[3];
